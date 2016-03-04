@@ -1,5 +1,6 @@
 name: Michael Cook, Electrical Engineer
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+url: https://michaeljcook.com
 gems:
   - jekyll-sitemap
